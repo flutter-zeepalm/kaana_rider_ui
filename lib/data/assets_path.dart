@@ -1,0 +1,32 @@
+class CustomAssets {
+  static const String klogoSvg = "assets/Group 149.svg";
+  static const String micheal = "assets/micheal.png";
+  static const String greyarrow = " assets/greyarrow.svg";
+  static const String ellipsegreen = "assets/Ellipsegreen.png";
+  static const String ellipsered = "assets/Ellipsered.png";
+  static const String orangedot = "assets/odot.png";
+  static const String profilepicdrawer = "assets/pspprofile.svg";
+  static const String crossrounded = "assets/cross+rounded.svg";
+  static const String groupprofile = "assets/Groupprofile.svg";
+  static const String orangecall = "assets/Group171.svg";
+  static const String buttonnishan = "assets/buttonnishan.svg";
+  static const String blueaarow = "assets/blurarrow.svg";
+  static const String chatbox = "assets/chatbox.svg";
+  static const String accountdp = "assets/accountdp.png";
+  static const String backgroundmap = "assets/maps.png";
+  static const String menu = "assets/Group 42.svg";
+  static const String greenind = "assets/greenind.svg";
+  static const String lineorange = "assets/lineorange.png";
+  static const String greenarrow = "assets/greenarrowdown.svg";
+  static const String asdgreen = "assets/asdgreen.png";
+  static const String orangepoint = "assets/orangepoint.svg";
+  static const String directionorder = "assets/directionorder.svg";
+  static const String mainframe = "assets/Frame 33.png";
+  static const String globelogo = "assets/logo_group.svg";
+  static const String maps32 = "assets/maps32.png";
+  static const String orangehifin = "assets/orange hifn.png";
+  static const String squareplus = "assets/bi_plus-square-dotted.png";
+  static const String undrawmail = "assets/undraw_Mail_re_duel 1.png";
+  static const String battery = "assets/battery.svg";
+  static const String arrowright = "assets/arroupjpg.png";
+}
